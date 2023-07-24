@@ -1,7 +1,7 @@
 ---
 layout: page
-title: {YOUR_PAGE_TITLE}  # Replace {YOUR_PAGE_TITLE} with your page title. For example: "publications"
-description: {YOUR_DESCRIPTION}  # Replace {YOUR_DESCRIPTION} with your page description. For example: "John Doe's publications"
+title: Publications  # Replace {YOUR_PAGE_TITLE} with your page title. For example: "publications"
+description: {My publication records}  # Replace {YOUR_DESCRIPTION} with your page description. For example: "John Doe's publications"
 ---
 
 <div class="navbar">
