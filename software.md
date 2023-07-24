@@ -14,9 +14,7 @@ description: Karl Broman's software
         </ul>
     </div>
 </div>
-
 ---
-
 #### <a name="qtl"></a>[R/qtl](https://rqtl.org) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3688461)
 
 An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
@@ -26,9 +24,7 @@ Google group, [R/qtl announcements](https://groups.google.com/group/rqtl-announc
 
 To participate in discussion about the use of R/qtl, join the
 Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
-
 ---
-
 #### <a name="qtl2"></a>[R/qtl2](https://kbroman.org/qtl2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3237772)
 
 A reimplementation of [R/qtl](https://rqtl.org), to better handle
@@ -46,7 +42,6 @@ To participate in discussion about the use of R/qtl2, join the
 Google group, [R/qtl2 discussion](https://groups.google.com/group/rqtl2-disc)
 
 ---
-
 #### <a name="qtlcharts"></a>[R/qtlcharts](https://kbroman.org/qtlcharts) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4049918) and [d3panels](https://kbroman.org/d3panels) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5418277)
 
 [R/qtlcharts](https://kbroman.org/qtlcharts) is an
@@ -57,7 +52,6 @@ It is built on the [d3panels](https://kbroman.org/d3panels) library
 (written in [CoffeeScript](https://coffeescript.org/)), which provides
 a set of graphics panels of different types (e.g., scatterplot,
 dotchart, and heatmap).
-
 
 ---
 
@@ -163,10 +157,7 @@ linear mixed model useful for genome-wide association studies
 An [R](https://www.r-project.org) package for estimating the number of essential genes in a genome
 on the basis of data from a random transposon mutagenesis experiment.
 See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf).
-
-
 ---
-
 #### <a name="ricalc"></a>[R/ricalc](https://github.com/kbroman/ricalc) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149488)
 
 An [R](https://www.r-project.org) package for calculation of two- and three-locus probabilities in
@@ -178,15 +169,12 @@ recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:113
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 
 ---
-
 #### <a name="npem"></a>[R/npem](https://github.com/kbroman/npem) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149486)
 
 An [R](https://www.r-project.org) package for analyzing cell proliferation assays using the
 normal-Poisson mixture model described by Broman et al.
 ([J Immunol Meth 198:119-132, 1996](https://www.ncbi.nlm.nih.gov/pubmed/8946008)).
-
 ---
-
 #### <a name="fingers"></a>[R/fingers](https://github.com/kbroman/fingers) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149503)
 
 An [R](https://www.r-project.org) package for the inference of full sibling families with data on
@@ -194,16 +182,12 @@ dominant genetic markers (such as RAPDs), following the hierarchicical
 clustering approach of Apostol et al. (1993) Theor Appl Genet
 86:991-1000.  The title follows from Fortran software written by WC
 Black IV.
-
 ---
-
 #### <a name="geesibsor"></a>[R/geesibsor](https://github.com/kbroman/geesibsor) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149504)
 
 Software for estimating the odds ratio for siblings for a binary
 phenotype, adjusting for covariates, using generalized estimating equations.
-
 ---
-
 #### <a name="qtlsim"></a>[R/qtlsim](https://github.com/kbroman/qtlsim) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149490)
 
 Software for testing, by computer simulation, various approaches

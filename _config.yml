@@ -7,7 +7,7 @@ highlighter: rouge
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
-#
+
 title : Karl Broman
 author :
   name : Karl Broman
@@ -15,7 +15,9 @@ author :
   github : kbroman
   feedburner : nil
 
-production_url : https://jkinda.github.io
+production_url : https://jkinda.github.io/mypersonalwebsite
+
+BASE_PATH : https://jkinda.github.io/mypersonalwebsite
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
