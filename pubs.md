@@ -122,7 +122,7 @@ Genet](https://www.nature.com/ng) 37:209-210
 ### <a name="letters"></a>letters
 
 To add
-<!--
+
 Sieberts SK, **Broman KW**, Gudbjartsson
 DF (2004) "Biased towards the null" means reduced power.  [Am J Hum
 Genet](https://www.cell.com/ajhg/home) 75:720-722
@@ -136,7 +136,7 @@ Genet](https://www.cell.com/ajhg/home) 75:720-722
 
 ### <a name="chapters"></a>proceedings and book chapters
 
-<!--
+
 **Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) _Selected Works of Terry Speed_, Springer, pp 353-355
 [![pdf](icons16/pdf-icon.png)](https://link.springer.com/content/pdf/10.1007/978-1-4614-1347-9_8.pdf)
 [![Springer](icons16/springer-icon.png)](https://link.springer.com/book/10.1007/978-1-4614-1347-9)
@@ -147,12 +147,10 @@ Genet](https://www.cell.com/ajhg/home) 75:720-722
 
 ### <a name="thesis"></a>dissertation
 
-To add
 
-<!-- 
 **Broman KW** (1997) Identifying quantitative trait loci in
 experimental crosses.  PhD dissertation, Department of Statistics,
 University of California, Berkeley
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
--->
+
