@@ -18,7 +18,6 @@ description: publications records
     </div>
 </div>
 
-
 ### <a name="book"></a>book
 
 <!--
@@ -107,17 +106,23 @@ and bile acid profiles in mice. [PLoS Genet](https://journals.plos.org/plosgenet
 
 ### <a name="editorials"></a>editorials
 
+T
+
 **Broman KW** (2005)  Mapping expression in
 randomized rodent genomes.  [Nat
 Genet](https://www.nature.com/ng) 37:209-210
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15731750)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/expression_mapping.pdf)
+-->
+
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/ng0305-209)
 <!-- https://doi.org/10.1038/ng0305-209 -->
 
 
 ### <a name="letters"></a>letters
 
+To add
+<!--
 Sieberts SK, **Broman KW**, Gudbjartsson
 DF (2004) "Biased towards the null" means reduced power.  [Am J Hum
 Genet](https://www.cell.com/ajhg/home) 75:720-722
@@ -125,12 +130,13 @@ Genet](https://www.cell.com/ajhg/home) 75:720-722
 74:306-316, 2004](https://www.ncbi.nlm.nih.gov/pubmed/14732904))
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15338459)
 [![pdf](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2962726-8)
+
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/424756)
 <!-- * 7 * -->
 
-
 ### <a name="chapters"></a>proceedings and book chapters
 
+<!--
 **Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) _Selected Works of Terry Speed_, Springer, pp 353-355
 [![pdf](icons16/pdf-icon.png)](https://link.springer.com/content/pdf/10.1007/978-1-4614-1347-9_8.pdf)
 [![Springer](icons16/springer-icon.png)](https://link.springer.com/book/10.1007/978-1-4614-1347-9)
@@ -141,8 +147,12 @@ Genet](https://www.cell.com/ajhg/home) 75:720-722
 
 ### <a name="thesis"></a>dissertation
 
+To add
+
+<!-- 
 **Broman KW** (1997) Identifying quantitative trait loci in
 experimental crosses.  PhD dissertation, Department of Statistics,
 University of California, Berkeley
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
+-->
