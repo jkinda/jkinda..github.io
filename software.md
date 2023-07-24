@@ -3,7 +3,6 @@ layout: page
 title: software
 description: Karl Broman's software
 ---
-
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -151,7 +150,6 @@ linear mixed model useful for genome-wide association studies
 (GWAS) and quantitative trait locus (QTL) mapping.
 
 ---
-
 #### <a name="negenes"></a>[R/negenes](https://github.com/kbroman/negenes) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3361121)
 
 An [R](https://www.r-project.org) package for estimating the number of essential genes in a genome
